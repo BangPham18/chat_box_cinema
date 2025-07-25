@@ -1,0 +1,15 @@
+# Core backend
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+
+# AI agent
+langchain
+langchain-google-genai
+langgraph
+langsmith
+langchain-postgres
+
+# Utils
+python-dotenv
